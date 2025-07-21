@@ -84,4 +84,6 @@ h2 {
   max-height: 50%;
   border-radius: 12px;
   object-fit: contain;
+  align-items:center;
+  text-align:center;
 }
