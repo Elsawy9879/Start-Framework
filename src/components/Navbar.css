@@ -1,5 +1,6 @@
 .navbar {
   width: 100%;
+  font-weight: 700;
   position: sticky;
   top: 0;
   left: 0;
@@ -25,7 +26,6 @@
 
 .logo {
   font-size: 32px;
-  font-weight: 700;
   color: white;
   text-decoration: none;
   transition: font-size 0.3s ease;
